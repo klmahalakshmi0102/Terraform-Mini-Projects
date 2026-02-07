@@ -16,7 +16,7 @@ This mini project demonstrates how to deploy a static website on AWS using Terra
 ## 📁 Project Structure
 
 ```
-day14/
+mini-project1/
 ├── main.tf              # Main Terraform configuration
 ├── variables.tf         # Input variables
 ├── outputs.tf          # Output values
