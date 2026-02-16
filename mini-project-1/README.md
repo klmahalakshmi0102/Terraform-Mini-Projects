@@ -55,7 +55,6 @@ mini-project1/
 
 ### 1. Initialize Terraform
 ```bash
-cd lessons/day14
 terraform init
 ```
 
